@@ -1,0 +1,26 @@
+astroid
+black
+bump2version
+coverage
+cython
+gitdb==4.0.2
+gitpython==3.1.0
+ipython
+more-itertools==8.2.0
+pip-tools>=6.4.0
+pylint
+pytest>5
+pytest-html
+recommonmark
+rope
+safety
+sphinx==1.8.5
+sphinx-markdown-tables
+sphinxcontrib-websupport==1.2.0
+twine
+zipp
+
+
+# Just for python < 3.8 because onwards it's built-in
+typed-ast
+
